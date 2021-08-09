@@ -1,5 +1,8 @@
 # Best-App-Tutorials.
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) 
+
+
 - [Best-App-Tutorials.](#best-app-tutorials)
   - [Where you can find more of these resources:](#where-you-can-find-more-of-these-resources)
   - [Beginner Tutorials:](#beginner-tutorials)
