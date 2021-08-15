@@ -1,3 +1,5 @@
+<samp>
+
 # Best-App-Tutorials.
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) 
@@ -62,3 +64,5 @@
 - [ ] Push them to your own copy of the repo.
 - [ ] Make a Pull Request!
 - [ ] Wait for us to check it and merge it!!!
+
+</samp>
