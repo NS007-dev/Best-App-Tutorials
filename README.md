@@ -18,7 +18,8 @@
 ## Where you can find more of these resources:
 - [CodePen]() The place where others share their code, you can fork, share and edit.
 
----------------------------------------------------------------                                   
+---------------------------------------------------------------     
+## Beginner Apps:
   
 | Link | Description |
 | ---- | ----------- | 
