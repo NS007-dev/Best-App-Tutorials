@@ -29,7 +29,7 @@
 | [Tip Calculator](https://codepen.io/voula12/pen/djrZGw?editors=0010)              | Super and easy, you can make this in 10 minutes!!! |
 | [TicTacToe App](https://reactjs.org/tutorial/tutorial.html)                      | Simple app to make which is easy to understand and use react to make a game! |
  
-## Apps for those a little bit more experienced...
+## Apps for those who are little bit more experienced...
 
 | Link                                                                    | Description                                 |
 | ----------------------------------------------------------------------- | ------------------------------------------- |
