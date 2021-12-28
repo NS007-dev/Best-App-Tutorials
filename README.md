@@ -13,10 +13,10 @@
 ## Find All the resources for you next coding app.
 ----------------------------------------------------------------
 
-### These are all **hand picked** resources, which I have found and I assure you, they are very successful!
+### These are all **hand picked** resources, I have built some of these myself, and work 100%!
 
 ## Where you can find more of these resources:
-- [CodePen]() The place where others share their code, you can fork, share and edit.
+- [CodePen](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwijysmMvIf1AhUNfMAKHcAiA_cQFnoECAcQAQ&url=https%3A%2F%2Fcodepen.io%2F&usg=AOvVaw0w86W8kIvueeqcN3sT65Yz) The place where others share their code, you can fork, share and edit.
 
 ---------------------------------------------------------------     
 ## Beginner Apps:
